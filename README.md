@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is João Almeida. I'm native **Engineer**, tech fan, planet defender, dopamine addict, endurance lover, optimist & raw soul.
+My name is João Almeida. I'm native **Engineer**, tech fan, planet defender, dopamine addict, downtempo victim, endurance lover optimist & raw soul.
 Software engineer by education and specially interested in healthcare industry, specifically Life Sciences. 
 
 <br>
@@ -9,7 +9,6 @@ Software engineer by education and specially interested in healthcare industry, 
 [![Threads](https://img.shields.io/badge/Profile-6264A7?style=flat&logo=threads&logoColor=white&color=0D76A8)](https://www.threads.net/@joalmeid)
 [![Instagram](https://img.shields.io/badge/Profile-6264A7?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/joalmeid/)
 [![Soundcloud](https://img.shields.io/badge/Profile-6264A7?style=flat&logo=soundcloud&logoColor=white&color=0D76A8)](https://soundcloud.com/joalmeid)
-[![Blog Badge](https://img.shields.io/badge/Blog-Posts-6264A7?style=flat&logo=github&color=0C2600)](https://joalmeid.github.io/)
 
 
 # Hi there 👋
