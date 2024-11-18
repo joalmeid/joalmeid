@@ -1,5 +1,6 @@
 ### Hi there 👋
-My name is João Almeida and a software engineer gradually learning about healthcare industry, specifically Life Sciences. 
+My name is João Almeida. I'm native **Engineer**, tech fan, planet defender, dopamine addict, endurance lover, optimist & raw soul.
+Software engineer by education and specially interested in healthcare industry, specifically Life Sciences. 
 
 <br>
 
